@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://pypi.org/project/easy-db3/"><img src="https://badge.fury.io/py/easy-db3.svg" alt="PyPI version"></a>
-  <a href="https://github.com/your-username/easydb/blob/main/LICENSE"><img src="https://img.shields.io/github/license/your-username/easydb" alt="License"></a>
+  <a href="https://github.com/your-username/easydb/blob/main/LICENSE"><img src="https://img.shields.io/github/license/imAnesYT/easydb" alt="License"></a>
   <a href="https://pepy.tech/project/easy-db3"><img src="https://pepy.tech/badge/easy-db3" alt="Downloads"></a>
   <a href="https://www.python.org/"><img src="https://img.shields.io/badge/python-3.6%2B-blue.svg" alt="Python"></a>
 </p>
